@@ -30,11 +30,12 @@ Formação:
 
   - Título: Técnico em Informática Gerencial
   - Instituição: Cotemig
-  - Conclusão: 2007
+  - Situação: Concluído 2007
   
+
   - Título: Técnologo em Desenvolvimento de Jogos
   - Instituição: Puc Minas
-  - Conclusão: Trancado
+  - Situação: Trancado
   
 Empresa Atual:
 
