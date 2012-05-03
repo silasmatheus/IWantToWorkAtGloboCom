@@ -28,6 +28,7 @@ CV
   - PhpUnit, Selenium
   - Scrum
   - Linux
+  - Svn, Git
 
 <h4> Formação: </h4> 
 
