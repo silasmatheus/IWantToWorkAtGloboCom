@@ -1,9 +1,50 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Entretenimento
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Resumo:
+
+  Atualmente trabalho no Ministério da Educação, como arquiteto e líder técnico do Fies Técnico (PRONATEC).
+  Adquiri conhecimento diversificado na área web, trabalhando para várias empresas nos segmentos de sistemas 
+  e sites/portais.
+  
+Principais áreas de conhecimento:
+
+  - Mysql, Postgre, Oracle, Doctrine, Pdo
+  - Xhtml, Css2, Js, Jquery, Prototype
+  - Php, OO, Design Patterns
+  - PhpUnit, Selenium
+  - Scrum
+
+Dados Pessoais:
+
+  Nome: Silas Matheus
+  Idade: 22 anos
+  Naturalidade: Contagem/MG
+
+Formação: 
+
+  Título: Técnico em Informática Gerencial
+  Instituição: Cotemig
+  Conclusão: 2007
+  
+  Título: Técnologo em Desenvolvimento de Jogos
+  Instituição: Puc Minas
+  Conclusão: Trancado
+  
+Empresa Atual:
+
+  Nome: Squadra Técnologia
+  Local: Brasília
+  Cliente: MEC - Ministério da Educação
+  Data de Entrada: 02/2011
+  Cargo: Analista Desenvolvedor
+  Função: Arquiteto - Líder Técnico 
+  
+
+
+
