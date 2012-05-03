@@ -22,28 +22,28 @@ Principais áreas de conhecimento:
 
 Dados Pessoais:
 
-  Nome: Silas Matheus
-  Idade: 22 anos
-  Naturalidade: Contagem/MG
+  - Nome: Silas Matheus
+  - Idade: 22 anos
+  - Naturalidade: Contagem/MG
 
 Formação: 
 
-  Título: Técnico em Informática Gerencial
-  Instituição: Cotemig
-  Conclusão: 2007
+  - Título: Técnico em Informática Gerencial
+  - Instituição: Cotemig
+  - Conclusão: 2007
   
-  Título: Técnologo em Desenvolvimento de Jogos
-  Instituição: Puc Minas
-  Conclusão: Trancado
+  - Título: Técnologo em Desenvolvimento de Jogos
+  - Instituição: Puc Minas
+  - Conclusão: Trancado
   
 Empresa Atual:
 
-  Nome: Squadra Técnologia
-  Local: Brasília
-  Cliente: MEC - Ministério da Educação
-  Data de Entrada: 02/2011
-  Cargo: Analista Desenvolvedor
-  Função: Arquiteto - Líder Técnico 
+  - Nome: Squadra Técnologia
+  - Local: Brasília
+  - Cliente: MEC - Ministério da Educação
+  - Data de Entrada: 02/2011
+  - Cargo: Analista Desenvolvedor
+  - Função: Arquiteto - Líder Técnico 
   
 
 
