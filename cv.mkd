@@ -6,6 +6,13 @@ Vaga
 CV
 ==
 
+<h4> Dados Pessoais: </h4> 
+
+  - Nome: Silas Matheus
+  - Idade: 22 anos
+  - Naturalidade: Contagem/MG
+  - Contato: matheus.silas@gmail.com, (61) 9999-0474, (31) 93819918
+
 <h4> Resumo: </h4>
 
 
@@ -21,12 +28,6 @@ CV
   - PhpUnit, Selenium
   - Scrum
   - Linux
-
-<h4> Dados Pessoais: </h4> 
-
-  - Nome: Silas Matheus
-  - Idade: 22 anos
-  - Naturalidade: Contagem/MG
 
 <h4> Formação: </h4> 
 
